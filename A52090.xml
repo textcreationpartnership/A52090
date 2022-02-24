@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter written by T. M. in the year, 1699</title>
+            <author>T. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52090</idno>
+            <idno type="STC">Wing M81A</idno>
+            <idno type="STC">ESTC R223719</idno>
+            <idno type="EEBO-CITATION">99834004</idno>
+            <idno type="PROQUEST">99834004</idno>
+            <idno type="VID">38483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38483)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1836:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter written by T. M. in the year, 1699</title>
+                  <author>T. M.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious disputations --  Early works to 1800.</term>
+               <term>Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:38483:1" rendition="simple:additions"/>
+            <head>A COPY of a LETTER WRITTEN BY <hi>T. M.</hi> In the Year,
+1699.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>WAS it ever known, that the Do<g ref="char:EOLhyphen"/>ctrine of a Perſecuting Church was True? Did St. <hi>Paul</hi> order any Corporal Puniſhment meerly for Opinion in Religion? Did it ever deſtroy Truth? And doth it not rather eſtabliſh an Error? A Fallen Brother, (at firſt at leaſt) ought to be reſtor'd in the <hi>Spirit of Meekneſs:</hi> 'Tis World<g ref="char:EOLhyphen"/>ly intereſt and blind Zeal, brought in Perfe<g ref="char:EOLhyphen"/>ction.</p>
+            <p>I have receiv'd an Anſwer from <hi>Hicks</hi>'s
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to my Queſtion of a Definition of a <hi>Sa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g Faith,</hi> which I propos'd to Mr. <hi>P</hi>—<g ref="char:punc">▪</g> Mr.
+<hi>Mr.</hi>—, whom, I am inform'd, you
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er'd to Diſcourſe me, but they flatly de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to do it in Writing.</p>
+            <p>
+               <pb n="2" facs="tcp:38483:2"/>The Ignorance of Natural Men, (or Me<g ref="char:EOLhyphen"/>not taught of the Holy Ghoſt) have charged Three things againſt my Book,
+<hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1ſt.</hi> That it promotes Sin.</item>
+               <item>
+                  <hi>2ly.</hi> That it is Seditious.</item>
+               <item>
+                  <hi>3dly.</hi> That 'tis Blaſphemy.</item>
+            </list>
+            <div n="1" type="charge">
+               <head>As to the firſt, or the Promotion of Sin.</head>
+               <p>THE very ſame Conſequence that Natu<g ref="char:EOLhyphen"/>ral Men drew from St.
+<hi>Paul</hi>'s Preaching in thoſe days, you your ſelves draw now from my Doctrine; for when <hi>Paul</hi> ſaid, As Sin had abounded, ſo Grace did ſuper-abound, they retorted, <hi>Let us commit Sin, that Grace may abound;</hi> they not knowing the Myſtery of theſe things: Whereby they made God's Mer<g ref="char:EOLhyphen"/>cy (ungratefully) the cauſe of Sin.</p>
+               <p>Doth not <hi>Paul</hi> alſo ſay, <hi>Let the Mercies of God, move you to pleaſe him the more.</hi> The greater the Mercy then, the greater the Love, and they to whom much is forgiven, they love much.</p>
+               <p>Hence the Doctrine of the Salvation of all Men, may be made a means to love God, which Love rooted in the Heart, is the Foun<g ref="char:EOLhyphen"/>tain of good Works: But the Doctrine of <hi>Hell-Fire</hi> can't be made a Means to love God; for threatning to Burn me, can't make me Love; and Hell-fire is often the means of hard thoughts of God, Deſpair and Self-Murder. But this might ſtrike the World Dumb, if they did but ſeriouſly conſider, that Means ſignify nothing in themſelves, excep<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grace apply thoſe Means.</p>
+               <p>
+                  <pb n="3" facs="tcp:38483:2"/>Hence a good Conſequence or an ill Conſe<g ref="char:EOLhyphen"/>quence may be drawn from the ſame Doctrin, as from St.
+<hi>Paul</hi>'s Doctrine of Mercy before.</p>
+               <p>Whereby we ſee ill Conſequences drawn from a Doctrine, proves not the Doctrine to be Erroneous. And what then have I to do with the ill Conſequences of this Doctrine? My Doctrin it ſelf, ought to be prov'd from Scripture, True or Falſe.</p>
+               <p>Vain then is that Expreſſion of J. <hi>P</hi>—, viz.
+<hi>If all Men are Sav'd, we'll live as we pleaſe.</hi> Up<g ref="char:EOLhyphen"/>on that Conſequence he judg'd my Merciful Doctrine Erronious and Seditious.</p>
+               <p>If Mr. <hi>P</hi>—or others, ſhall bring any Evidence, that my Doctrine is the promotion of Sin in ſome to whom Grace is not given, I queſtion not (beſides what I have ſaid be<g ref="char:EOLhyphen"/>fore) but to ballance that with ſufficient proof of ſuch that have been drawn from De<g ref="char:EOLhyphen"/>ſpair and Murdering themſelves; and not only ſo, but hate Sin through love to God, much more than when they were ignorant of my Book.</p>
+               <p>Certainly Self-Murder is accounted one of the worſt of Sins; and in this Particular, that it can admit of no Repentance for it on this ſide the Grave; which is never the effect of a Merciful Doctrine.</p>
+               <p>But if I hold Free-will and Hell-fire, and yet by Experience, I find not a ſufficient Free-will to ſave me, being of a tender Con<g ref="char:EOLhyphen"/>ſcience, I fall into Deſpair, as Thouſands, for ought I know, have done<g ref="char:punc">▪</g> And many Mini<g ref="char:EOLhyphen"/>ſters <pb n="4" facs="tcp:38483:3"/> of ſuch a Doctrine have Deſtroy'd them<g ref="char:EOLhyphen"/>ſelves through Deſpair.</p>
+               <p>But we'll ſuppoſe<g ref="char:punc">▪</g> I deny Free-will (as doth the
+<hi>Common-Prayer</hi> Book and <hi>Articles</hi> of the Church of
+<hi>England</hi>) and yet own a Hell-fire, I am in as bad a condition; for this renders God to me Tyrannical: I don't ſay ſuch a Doctrine is Blaſphemous, yet it hath the ſame effects as the other, <hi>viz.</hi> Deſpair and Self-Murder.</p>
+               <p>Pray, My Lord, judge Impartially, whoſe Doctrine then promotes Sin the moſt, yours or mine? Or whoſe promotes the greateſt Sins? Or whoſe Doctrine then is moſt Sedi<g ref="char:EOLhyphen"/>tious? When Men of my Judgment, al<g ref="char:EOLhyphen"/>ſo are as ready (not ſo much fearing Death) to venture their Lives cheerfully in his Ma<g ref="char:EOLhyphen"/>jeſty's Service.</p>
+               <p>And the more there are of this Judgment<g ref="char:punc">▪</g> the more and better Subjects his Majeſty will have, in that this Doctrine, as it doth not di<g ref="char:EOLhyphen"/>miniſh from Loyalty, ſo it adds to Valour.</p>
+               <p>Dr. <hi>Tillotſon,</hi> late Arch-Biſhop of
+<hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> his Book comes very little ſhort of mine, in this Saying, <hi>That Hell-fire may be Threatned, and not Intended.</hi> So that this Great Prelate being not ſure of a Hell-fire, is a ſufficient Argument for me to enquire, whether you, (my Lord)<g ref="char:punc">▪</g> are certain there is ſuch a Place; which you ought to be ſure of, otherwiſe, another cannot be ſafely Perſecuted for diſ<g ref="char:EOLhyphen"/>owning that which your Church Doubts of<g ref="char:punc">▪</g>
+               </p>
+               <p>The next Charge againſt my Book, is,</p>
+            </div>
+            <div n="2" type="charge">
+               <pb n="5" facs="tcp:38483:3"/>
+               <head>SEDITION.</head>
+               <p>I have ſaid enough to this, in proving, that the ill Conſequences Men draw from a Doc<g ref="char:EOLhyphen"/>trine, proves it not Erronious, and ſo not Seditious. The Doctrine then itſelf, ought to be Diſputed by the union of the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+               <p>All Doctrines, we find, are Seditious one to another, but may not be to the King and Government.</p>
+               <p>It was not the Doctrine of the Apoſtles that was Seditious, but the Ignorance of the People made it ſo, and ſaid, If we ſuffer theſe things, the <hi>Romans</hi> will come and take our Land from us.</p>
+               <p>And, now, how can my Doctrine be prov'd Seditious, when Men of my Judgment, own it their Duty, to be obedient to the Powers that are, knowing
+<hi>All Power is of God.</hi> And the more there are of this Judgment, the more and better Subjects his Majeſty will have; in that this Doctrine, as it doth not diminiſh from Loyalty, ſo it adds to Valour.</p>
+               <p>I know Men ſay, that many commit Sin the more freely becauſe of my Book, but it may be in their Hearts (if not in Act) they have committed the ſame Sins, or at leaſt loved thoſe Sins before, which is Sin, and ſo cannot be ſaid but to be guilty of thoſe Sins before; as our Saviour ſaid, <hi>He that luſteth after a Woman, commits Adultery in his Heart.</hi>
+               </p>
+               <p>If for fear of Puniſhment only, (as every
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n carries its own Puniſhment with it) they <pb n="6" facs="tcp:38483:4"/> have avoided the committing in Act, thoſe Sins, yet it they lov'd thoſe Sins, and would commit them but only for fear of Puniſhment, may be, in the ſight of God, as guilty of them, as he that actually commits them.</p>
+               <p>'Tis not from Love to God, but only from Self-love, that he acts them not, to avoid Puniſhment, and ſuch Service is not worth accepting.</p>
+               <p>'Tis Love, or the Heart, the Lord delights in; and what Service proceeds from that, a<g ref="char:EOLhyphen"/>dopts us to the title of Sons, and not Slaves.</p>
+               <p>But whilſt I thus Argue, my beſt Plea is, that Means, in themſelves, ſignify nothing for the avoiding of Sin, except Grace apply the Means: Nor can any thing be made a Means for the commiſſion of Sin, where Grace preſerves; not forgetting my Doctrine ex<g ref="char:EOLhyphen"/>cells others in this, that it can't be made a means for Deſpair and Self-Murder, and its Service is the more acceptable as proceeding from Love.</p>
+               <p>Neither doth the ill Conſequences Men draw from my Doctrine prove it Erroneous.</p>
+               <p>The Third Charge againſt my Doctrine, is,</p>
+            </div>
+            <div n="3" type="charge">
+               <head>BLASPHEMY.</head>
+               <p>IT is impoſſible to unite the Scriptures in Senſe one with another, except we ſay Sin is Ordain'd, and that God is the Author of it, but to good Ends and Purpoſes; and he that cannot unite the Scriptures in Senſe one with another, cannot be a Miniſter of them, be<g ref="char:EOLhyphen"/>cauſe <pb n="7" facs="tcp:38483:4"/> beſure then he doth not underſtand them.</p>
+               <p>They who charge another's Doctrine with Blaſphemy, need look back to their own.</p>
+               <p>I do not ſay, my Lord, that you charge it with Blaſphemy, but ſome have done it, and I am thereby oblig'd to clear it from that Aſperſion. <hi>Predeſtination,</hi> which is Divinity, the Miniſters, in their Pulpits, own they do not underſtand. Let that Doctrine be what it will, that ſhall from Sciptures, or other<g ref="char:EOLhyphen"/>wiſe endeavour to prove God Tyrannical, and the cauſe of Sin to bad Ends, is a Blaſphe<g ref="char:EOLhyphen"/>mous Doctrine in my Judgment.</p>
+               <p>I ſay no more than what you ſay, that God is the cauſe of Sin, not to bad Ends, but to good Ends, as the Crucifixion of Chriſt, St.
+<hi>Peter</hi>'s Denying him, <hi>&amp;c.</hi>
+               </p>
+               <p>And I make Sin Ordain'd, to ſet forth God's Hatred to it, (not loving Sin) by pu<g ref="char:EOLhyphen"/>niſhing Men with Temporal Puniſhments for it; which not only ſets forth his hatred to Sin, but alſo ſets forth his other Attributes, and renders Man Satisfaction through Chriſt, for this, by Gloryfication: See my <hi>Second Addition,</hi> pag. 21. where you have the full Meaning, or Myſtery of Sin Ordain'd.</p>
+               <p>Had I ſaid, that God ordain'd Sin to bad Ends, and that he lov'd Sin, and delighted in the deſtruction of his Creatvres, then I had rendred him Tyrannical, or Unjuſt, Un<g ref="char:EOLhyphen"/>holy, Unmerciful to the higheſt.</p>
+               <p>
+                  <pb n="8" facs="tcp:38483:5"/>Now, to paſs by what I have ſaid as to the
+<hi>Common-prayer-Book</hi> and <hi>Articles</hi> of the Church of
+<hi>England,</hi> I will examine a Doctrin that hold a certain number are ordain'd, (and that from all Eternity, as I have heard) to Hell-fire unavoidably, and do con<g ref="char:EOLhyphen"/>clude alſo, that God is Glorified by this.</p>
+               <p>But, for my part, I cannot think Tyranny and Injuſtice, Cruelty, and the worſt of Cru<g ref="char:EOLhyphen"/>elties, can add Honour and Glory to any Being.</p>
+               <p>So that you ſee there are worſe Doctrines than mine in the World: And this Doctrin, which is downright Blaſphemy, in my Judg<g ref="char:EOLhyphen"/>ment, is taken little Notice of, when a Mer<g ref="char:EOLhyphen"/>cifull Doctrine is call'd into Queſtion, which promotes Good, or at leaſt never ſo ill Conſe<g ref="char:EOLhyphen"/>quences as this hath done, <hi>viz.</hi> Deſpair and Self-Murder.</p>
+               <p>Can that be a Blaſphemous Doctrine, where Grace can apply it as a means to love God and our Neighbour, on which Chriſt ſaith,
+<hi>Hang</hi> or depend, <hi>all the Law and Prophets,</hi> in that ſuch a Doctrine is the foundation of all Good flowing from ſuch Love?</p>
+               <p>Now, if (as I have prov'd) that my Mer<g ref="char:EOLhyphen"/>ciful Doctrine, through Grace applying it, promotes love to God, which none can deny; and if I deny Free-will, I conclude my Neigh<g ref="char:EOLhyphen"/>bour can't help his Infirmity, and ſo I am in the greater Charity towards him.</p>
+               <p>
+                  <pb n="9" facs="tcp:38483:5"/>All which things would far more appear true, if a Diſcourſe were ventur'd concern<g ref="char:EOLhyphen"/>ing a Definition of a <hi>Saving Faith.</hi>
+               </p>
+               <p>But we'll ſuppoſe that which is not, that both Blaſphemy and promotion of Sin were in my Doctrine, was not the Original Copy ſhew'd to Dr. <hi>Stillingfleet</hi> and others, and I could have no Anſwer from them? My <hi>Clavis Aurea</hi> hath been Printed about four Years, and no Divine hath Anſwer'd it; only Dr. <hi>C.</hi> a Phyſician, hath written ſomething againſt it, which Mr. <hi>P.</hi> and others, ſay is Ortho<g ref="char:EOLhyphen"/>dox, but hath left the moſt material part of my Book Unanſwer'd.</p>
+               <p>If you allow his Anſwer true Divinity, and a ſufficient Anſwer to my Book, I have Print<g ref="char:EOLhyphen"/>ed an Anſwer to it.</p>
+               <p>Some ſay, I ought not to have printed my Judgment in Divinity: I Anſwer, I can't ſee People in Deſpair, and not relieve them, and there may be many ſuch I never heard of, that may ſee my Book.</p>
+               <p>If this be againſt Law, 'tis not againſt Reaſon, which ought to be the foundation of Law.</p>
+               <p>Our Laws were made by Chriſtians, and ſo not intended againſt Spiritual Men: But 'tis Ignorance, (like the Grand-Jury) who I ſup<g ref="char:EOLhyphen"/>poſe never read my Book, ſo as to Conſider it, which they ought to have done, nor can Diſcourſe it, yet they found a Bill againſt me) that Perſecuted a Spiritual Man by thoſe Laws: Therefore Natural Men cannot be Lawful Judges of Spiritual Men.</p>
+               <p>
+                  <pb n="10" facs="tcp:38483:6"/>Until a Definition of a Saving Faith be throughly Diſcours'd, your Preaching can give no Satisfaction in Salvation, neither can you be a competent Judge what is Blaſphemy in what I have writ.</p>
+               <p>And truly, I am fully ſatisfied, that Men would not have had recourſe to Perſecution, (diſgracing the Church, with ſuch a reſem<g ref="char:EOLhyphen"/>blance to the bloody Church of <hi>Rome</hi>) if Mi<g ref="char:EOLhyphen"/>niſters were able to Confute me.</p>
+               <p>How Sin was compell'd, by way of a live<g ref="char:EOLhyphen"/>ly Repreſentation, to ſet forth unto us the knowledge of Sin the more lively, is a deep Diſcourſe, beyond a Natural Man's finding out. See my <hi>Second Addition,</hi> pag. 21.</p>
+               <p>And if Sin be an Infirmity, (as the <hi>Com<g ref="char:EOLhyphen"/>mon-Prayer-Book</hi> allows of) it conſequently follows, there's no Free-will in Man.—Hence
+'twas a Sin for <hi>Joſeph</hi>'s Brethren to Sell him; but <hi>Joſeph</hi> ſaith, <hi>It was not you, but God that ſent me hither.</hi>
+               </p>
+               <p>This very Myſtery hath confounded the Wiſdom of World in Divinity, and can ne<g ref="char:EOLhyphen"/>ver be throughly reach'd by any, without a Diſputation, or Satisfaction in a Definition of a Saving Faith.</p>
+               <p>How highly then then it concerns us to ſearch into that Faith and its Circumſtances, I need not farther urge, only to ſay thus, There's no Satisfaction can be had in Preach<g ref="char:EOLhyphen"/>ing without it.</p>
+               <p>The words of the Common-Prayer-Book, which make Sin an Infirmity, are theſe, <hi>Lord, incline our hearts to keep this Law.</hi> Hence our <pb n="11" facs="tcp:38483:6"/> very Deſires muſt be mov'd in us to Good. Again, <hi>Though we be ty'd and bound with the chain of our Sins, yet let the pitifulneſs of thy Mercy loſen us,</hi> &amp;c.</p>
+               <p>Hence 'tis evident, that Men bound in Chains, cannot act as Men at Liberty, and are forc'd to betake themſelves to God's Mer<g ref="char:EOLhyphen"/>cy to loſen them, they not being able to help themſelves.</p>
+               <p>And in another Place, the Church prays for the continual Dew of God's Bleſſing, or Grace. And the Tenth Article of the Church ſaith, that Man cannot turn and prepare himſelf to Faith and Prayer, without the Grace of God by Chriſt firſt moving us there<g ref="char:EOLhyphen"/>to, that we may have a good Will, and Work<g ref="char:EOLhyphen"/>ing with us when we have that good Will.</p>
+               <p>Who can't every day ſee, that to thoſe who are harden'd, or Grace not given them, 'tis neither the Mercies of God can allure them, nor the fear of Hell deter them from Sin.</p>
+               <p>Now, if we can't but acknowledge ſuch Power, nor that we can proceed in Good the leaſt ſtep farther than Grace aſſiſts us, it will give us to underſtand, that we may wholly and only truſt in God, (which is not to lye in a Ditch and cry God help) for then he will take us into his protection to Govern and Defend us.</p>
+               <p>Hence my Doctrine teacheth, Firſt, to be<g ref="char:EOLhyphen"/>come Vile in our own Eyes, and to truſt in God wholly and only.</p>
+               <p>
+                  <pb n="12" facs="tcp:38483:7"/>
+                  <hi>Secondly,</hi> To Love him above all things imaginable.</p>
+               <p>
+                  <hi>Thirdly,</hi> To love our Neighbour as our ſelves, denying Free-will in him, Which are the higheſt Duties in Chriſtianity, and Foun<g ref="char:EOLhyphen"/>tain of good Works: Which Doctrine then is True and Safe, promoting Good, but not without Grace given to receive it with Love.</p>
+               <p>I have done with the falſe Aſperſions caſt on my Doctrine. I come now to caution Men concerning Perſecution in matters of Reli<g ref="char:EOLhyphen"/>gion.</p>
+               <p>No Man can be of what Judgment he plea<g ref="char:EOLhyphen"/>ſes, as will be lively ſet forth by an humble deſire to you, to reſolve me, whether it lies in your Power to be of my Judgment or not? So that a right Judgment produces good Acti<g ref="char:EOLhyphen"/>ons, and a falſe Judgment produces ill Acti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Hence 'tis often that the Perſecutor and the Perſecuted are both ſatisfy'd in Con<g ref="char:EOLhyphen"/>ſcience, the one to Perſecute, the other to Suffer: As 'tis Writ, <hi>Some of You they ſhall Kill, and think they do God good Service.</hi>
+               </p>
+               <p>But who was in the Right, the Apoſtles, or the Jews?</p>
+               <p>If the Scripture ſpeaks of a Spiritual Man to come, it will be worth our Enquiry how to know him, and in the next place, how to avoid the Perſecuting of him.</p>
+               <p>
+                  <pb n="13" facs="tcp:38483:7"/>We are ſatisfy'd, in <hi>John</hi> 10. 41. that <hi>John</hi> did no Miracle: It was never known, but that the Doctrine of Spiritual Men, hath been eſteem'd Blaſphemy, promoting Sin and Sedition, and were Murder'd for ſuppoſed Blaſphemy: 'Tis a hard matter then, to know ſuch a Man by his Doctrine.</p>
+               <p>The only way that I can propoſe is this, Firſt, Let not Paſſion nor unbelief of his Do<g ref="char:EOLhyphen"/>ctrine (let it ſeem never ſo Blaſphemous) domineer over your Reaſon; but let former Examples of the Murder of the Apoſtles, de<g ref="char:EOLhyphen"/>ter you from ſuch Practices. If his Doctrine cannot be Overthrown by the whole World, or no Man can be found that can Diſcourſe him, ſo as to overthrow his Doctrine, you need not queſtion but ſuch a Man is a Spiri<g ref="char:EOLhyphen"/>tual Man, taught by the Holy Ghoſt.</p>
+               <p>In vain have Diſputations been amongſt Natural Men, becauſe amongſt ſuch, none could be found that underſtood the Myſte<g ref="char:EOLhyphen"/>ries of the Scriptures, and ſo Diſputations could have no end.</p>
+               <p>But when a Spiritual Man is come, he over<g ref="char:EOLhyphen"/>throws all Men, and then Diſputes in Divi<g ref="char:EOLhyphen"/>nity will have an end to the Satisfaction<g ref="char:punc">▪</g> of many.</p>
+               <p>Theſe things ſtrikes deep with me (though I do not ſay I am a Spiritual Man) partly from the Viſions I have had, partly from my Doctrine, by Natural Men eſteem'd Blaſphe<g ref="char:EOLhyphen"/>my, a promotion of Sin and Sedition, and partly from the Malice of many, who are for <pb n="14" facs="tcp:38483:8"/> Burning me and my Book, yet cannot Over<g ref="char:EOLhyphen"/>throw it.</p>
+               <p>Its ſafe for Men, (and God expects no more from them) to reſt ſatisfied with a Doctrine that cannot be Overthrown, notwithſtand<g ref="char:EOLhyphen"/>ing they cannot altogether believe it. Had the Jews done this, they had not Murder'd the Apoſtles.</p>
+               <p>But ſome are for pinning their Opinions on Great and Learned Men's Judgments, when poor men that are deſpiſed, God hath choſen to confound the Wiſdom of the World: Even the Great and Learned men who ſate in Council, Crucified Chriſt, and order'd the Apoſtles, (ſome of whom were poor Fiſher<g ref="char:EOLhyphen"/>men) to be Puniſhed.</p>
+               <p>And now I ſee the unruly Multitude are for Great and Learned men, and for Mur<g ref="char:EOLhyphen"/>dering me for that I cannot help, nor they Confute.</p>
+               <p>I can ſay little more to this, and enough is ſaid, if well conſidered; I ſhall only Anſwer one Objection, and ſo take my Leave of you. Many ſay, It's not worth the Miniſters time to Anſwer me.</p>
+               <p>I Anſwer; If my Doctrine be the greateſt Truth, or the greateſt Error, it ought to be Anſwered, either Confuted, or Preach'd up.</p>
+               <p>Again, many receive it, and if it be a dam<g ref="char:EOLhyphen"/>nable Doctrine, the Conſequence is eaſy, it muſt of neceſſity then be damnable for thoſe that can Anſwer it and will not: Which I think, is a full ſatisfaction, that it ought to <pb n="15" facs="tcp:38483:8"/> be Anſwer'd: Then if they Anſwer it not, it muſt be for want of Ability.</p>
+               <p>If my Lord, theſe Arguments affect you not, but ſtill I muſt ſuffer for my Conſcience ſake, through the Ignorance of thoſe men that can<g ref="char:EOLhyphen"/>not Diſcourſe me, I hope God will ſtrengthen me that I may (ſince from you I cannot get better Satisfaction) not draw back, but ra<g ref="char:EOLhyphen"/>ther rejoice to Seal what I have writ, tho' it be with the Sacrifice of my Life.</p>
+               <p>Yet, that I may have a clearer Conſcience, I muſt inform you, how that Natural Man, J. <hi>P</hi>—hath fore-judged my Book to be Burnt, and my ſelf to be ſet in the Pillory: Where if by the maliciouſneſs of the Igno<g ref="char:EOLhyphen"/>rant (who are generally moſt Envious, I am there Murder'd, I am clear of it, ſince I have firſt inform'd you of that Danger.</p>
+               <p>Mr. <hi>P</hi>—and Mr. <hi>M</hi>—, ſay I am no Scholar, and cannot write Senſe; truly then I am the eaſier Anſwer'd, and they are Senſe<g ref="char:EOLhyphen"/>leſs they have not done it. Neither do I care to puzzle the Vulgar, my Enemies, with obſcure words; ſo that for the word Praevi<g ref="char:EOLhyphen"/>ous, I write Foregoing; for Inevitable, I ſay Unavoidable, and for Arcana's, I ſay Secrets, &amp;<hi>c.</hi>
+               </p>
+               <p>And tho' I do not pretend to much Learning, I am not ſo Illiterate, but I can find much Learned Nonſenſe in the World.</p>
+               <p>
+                  <pb n="16" facs="tcp:38483:9"/>No more at preſent, but humbly craving your Lordſhips due conſideration of th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Matter, whereby (under God) I ſhall account my ſelf Obliged to you, who am</p>
+            </div>
+            <closer>
+               <signed>Your Lordſhips Moſt Humble Servant in Chriſt, T. M.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
